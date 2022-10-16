@@ -46,7 +46,7 @@
         display: flex;
         align-items: center;
         height: 100%;
-        font-weight: 600;
+        font-weight: 500;
         border-bottom: 2px solid transparent;
     }
 

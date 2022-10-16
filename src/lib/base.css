@@ -99,6 +99,10 @@ h1 {
 	font-size: var(--h1);
 }
 
+ul {
+	list-style-type: none;
+}
+
 .container {
 	max-width: 1250px;
 	margin: 0 auto;
